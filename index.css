@@ -28,6 +28,7 @@
 .mynav{
     background-color: rgb(165, 130, 88);
     font-family: 'Poppins', sans-serif;
+    margin-right: 0.2%;
 }
 #intro{
     font-family: 'Merienda', sans-serif;
@@ -103,7 +104,6 @@
     padding-left: 4%;
     padding-right: 4%;
     padding-bottom: 2%;
-   
 }
 .flashcard{
     justify-items: center;
@@ -138,4 +138,7 @@
     font-weight: lighter;
     display: flex;
     align-items: center;
+}
+.row{
+    --bs-gutter-x: 0;
 }
