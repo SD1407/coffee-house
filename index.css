@@ -122,7 +122,9 @@ h4{
 }
 
 .menuimg{
-    width: 60%;
+    width: 200px;
+    height: 200px;
+    padding-bottom: 5%;
 }
 .citi{
     text-align: center;
