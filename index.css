@@ -111,6 +111,9 @@ h4{
 }
 .final{
     display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    margin-right: 2%;
 }
 
 .leftmenu{
